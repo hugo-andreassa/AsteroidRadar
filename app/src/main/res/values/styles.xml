@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- List item theme -->
+    <style name="ListItem">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    <style name="ListItem.Header" parent="ListItem">
+        <item name="android:textAppearance">?attr/textAppearanceListItem</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ListItem.Subtitle" parent="ListItem">
+        <item name="android:textColor">@color/text_grey</item>
+        <item name="android:textAppearance">?attr/textAppearanceListItemSecondary</item>
+    </style>
+
+    <!-- Text theme -->
+    <style name="Text">
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@color/default_text_color</item>
+    </style>
+
+    <style name="Text.Header" parent="Text">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Text.Subtitle" parent="Text">
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
