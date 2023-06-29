@@ -13,9 +13,9 @@ The application:
 * The asteroids data is cached by using a worker, so it downloads and saves week asteroids in background when device is charging and wifi is enabled, as well as deleted the asteroids data of the previous day
 * App works in multiple screen sizes and orientations, also it provides talk back and push button navigation.
 
-![screen_1](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/dd3a7875-86b2-4fa9-b6a2-e3f39ed04563)
-![screen_3](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/4c8ebffd-65d9-4ff5-ba67-4c0404badbfe)
-![screen_4](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/bfe65bf1-cc14-4a2b-ac25-a80a4898bcc0)
+<img src="https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/dd3a7875-86b2-4fa9-b6a2-e3f39ed04563" width="300">
+<img src="https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/4c8ebffd-65d9-4ff5-ba67-4c0404badbfe" width="300">
+<img src="https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/bfe65bf1-cc14-4a2b-ac25-a80a4898bcc0" width="300">
 
 # Instructions for using API
 
