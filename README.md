@@ -1,4 +1,4 @@
-# Asteroid Radar App
+# Asteroid Radar
 
 Asteroid Radar is an app to view the asteroids detected by NASA that pass near Earth, you can view all the detected asteroids in a period of time, their data (Size, velocity, distance to Earth) and if they are potentially hazardous.
 
@@ -12,6 +12,10 @@ The application:
 * Once an asteroid is saved in the database, the list of asteroids is displayed
 * The asteroids data is cached by using a worker, so it downloads and saves week asteroids in background when device is charging and wifi is enabled, as well as deleted the asteroids data of the previous day
 * App works in multiple screen sizes and orientations, also it provides talk back and push button navigation.
+
+![screen_1](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/dd3a7875-86b2-4fa9-b6a2-e3f39ed04563)
+![screen_3](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/4c8ebffd-65d9-4ff5-ba67-4c0404badbfe)
+![screen_4](https://github.com/hugo-andreassa/asteroid-radar/assets/50621697/bfe65bf1-cc14-4a2b-ac25-a80a4898bcc0)
 
 # Instructions for using API
 
